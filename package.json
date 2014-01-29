@@ -1,0 +1,21 @@
+{
+  "name": "EmailExtractor",
+  "version": "0.0.1",
+  "description": "Extract emails from an HTML page",
+  "main": "emailExtractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "extract",
+    "webpage",
+    "website",
+    "html"
+  ],
+  "author": "denizozger",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "htmlparser2": "~3.4.0"
+  }
+}
